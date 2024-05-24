@@ -1,0 +1,24 @@
+---
+title: "keterpaparan"
+author: "Arya Candra Kusuma"
+date: '2022-11-02'
+output: html_document
+---
+
+# Keterpaparan
+
+Keterpaparan adalah keberadaan manusia, mata pencaharian, spesies/ekosistem, fungsi lingkungan hidup, jasa, dan sumber daya, infrastruktur, atau aset ekonomi, sosial, dan budaya di wilayah atau lokasi yang dapat mengalami dampak negatif sebagai dampak perubahan iklim.
+
+## Sub Indikator
+
+- sub11 : Jumlah Penduduk
+- sub21 : Proporsi jumlah bangunan rumah pemukiman kumuh terhadap jumlah penduduk
+- sub22 : Proporsi Jumlah bangunan di bantaran sungai terhadap jumlah penduduk
+- sub31 : Jenis tempat BAB
+- sub32 : Jenis tempat pembuangan sampah
+
+## Indikator
+
+- ind1 : Jumlah penduduk
+- ind2 : Kualitas permukiman
+- ind3 : Sanitasi

@@ -1,0 +1,10 @@
+---
+title: "kerentanan"
+author: "Arya Candra Kusuma"
+date: '2022-11-02'
+output: html_document
+---
+
+# Kerentanan
+
+Kerentanan adalah derajat atau tingkat kemudahan suatu sistem terkena atau ketidakmampuannya untuk menghadapi dampak buruk dari perubahan iklim, termasuk keragaman iklim dan iklim esktrim.

@@ -1,0 +1,10 @@
+---
+title: "kerentanan"
+author: "Arya Candra Kusuma"
+date: "`r Sys.Date()`"
+output: html_document
+---
+
+# Pendahuluan
+
+Isu perubahan iklim sudah hangat diperbincangkan mengingat dampaknya yang serius pada berbagai aspek kehidupan terutama kesehatan. Potensi negatif atau risiko perubahan iklim terhadap kesehatan telah dipandang sebagai tantangan global yang dapat mengancam penghidupan manusia (Wilby et al., 2009, Barnett 2010). Laporan Penilaian IPCC Kelima (AR-5) (IPCC 2014) menunjukkan bahwa iklim global telah mengalami pemanasan yang signifikan. Data pengamatan menunjukkan bahwa suhu permukaan rata-rata global meningkat sebesar 0.85⁰C dalam 130 tahun terakhir. Kenaikan suhu bumi tidak hanya berdampak pada naiknya temperatur bumi, tetapi juga mengubah sistem iklim yang mempengaruhi berbagai aspek pada alam dan kehidupan manusia salah satunya kesehatan manusia. Data dilapangan menunjukan kerentanan dan risiko perubahan iklim global tidak hanya secara serius mempengaruhi aktivitas ekonomi, sosial, dan politik, namun juga melibatkan serangkaian masalah kesehatan yang parah (PCC, 2007b; McMichael et al., 2003). Dalam beberapa dekade terakhir, frekuensi kejadian penyakit semakin tinggi khususnya penyakit Demam Bedarah Dengue (DBD). Dikutip dari InfoDATIN 2016, sejak tahun 1968 terjadi peningkatan kasus DBD dari 58 menjadi 126.675 kasus pada 2015.

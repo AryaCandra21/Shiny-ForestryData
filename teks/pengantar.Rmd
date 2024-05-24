@@ -1,0 +1,35 @@
+---
+title: "pengantar"
+author: "Arya Candra Kusuma"
+date: "`r Sys.Date()`"
+output: html_document
+---
+
+# Pengantar
+
+Papua merupakan bagian barat pulau besar Nugini. Luas wilayah sebesar 644.981 km² terdiri atas 421.981 km² daratan dan 228.000 km² wilayah lautan dengan jumlah penduduknya sekitar 2.233.330 jiwa (data tahun 2001) dan sekitar 1% dari jumlah penduduk Negara Republik Indonesia. Dan mendukung hutan rimba tropis tua terluas yang masih ada di Asia Pasifik (baca Cermin Noken Papua, 2011). Badan Pusat Statistik (BPS) mencatat, berdasarkan data 2019 yang diperbaharui per 2021, luasan hutan konservasi di Papua mencapai 6,73 juta hektare (ha) dan Papua Barat mencapai 1,71 juta ha. Secara fungsi, hutan konservasi merupakan hutan yang berfungsi untuk menjaga keanekaragaman hayati. Secara keseluruhan, luas hutan konservasi di Indonesia mencapai 27,4 juta ha. Meski demikian, alih fungsi lahan masih jadi risiko bagi hutan, termasuk hutan lindung dan konservasi di Tanah Papua. Kementerian Lingkungan Hidup dan Kehutanan (KLHK) dalam dokumen perencanaan strategisnya berkomitmen untuk menjaga kawasan konservasi, termasuk hutan, dengan metode METT (Management Effectiveness Tracking Tools).
+
+Lingkungan sosial merupakan suatu bagian dari manusia sebagai makhluk sosial dalam kelangsungan hidup sehari-hari. Tuntutan hidup pada masa kini bagi kita sebagai lingkungan hidup manusia; lingkungan hidup sosial; lingkungan hidup alam; dan lingkungan hidup buatan atau binaan. Manusia sebagai makhluk sosial tetap menjaga sistem sosial dan ekosistem sebagai tanggung-jawab sosial dapat mengedepankan keberpihakan atas isu-isu-kesenjangan berpikir, dalam hal seperti kemiskinan menurut kabupaten/kota; rasio gizi menurut kabupaten/kota; hutan lindung, suaka alam dan pelestarian alam, hutan produksi terbatas, hutan produksi tetap, hutan produksi dapat dikonversi, luas hutan dan perairan serta jumlah penduduk dan jenjang pendidikan termasuk perajin noken yang buta hurut.      
+
+Pusat Informasi noken berbasis lingkungan sosial. Noken multifungsi tas rajutan atau anyaman kerajinan tangan masayarkat Papua telah menjadi warisan budaya takbenda atau warisan dunia UNESCO pada hari Selasa, tanggal 4 Desember 2012 di Paris France. Noken multifungsi hasil peradaban perempuan/wanita “mama-mama noken” Papua. Bahan hasil hutan adalah seperti serat pohon, kulit kayu, rumput rawa, daun pandan, sagu dan rotan, nipa dan lainnya sebagai bahan bakunya. Lingkungan sosial adalah wilayah tempat berlangsungnya berbagai macam interaksi sosial, sistem sosial dan ekosistem, baca ekologi manusia (Marten 2001:75), ekologi manusia (Soerjani 2002:1-8); ekologi dan pembangunan lingkungan (Sumarwoto 2004:51); Bertemu orang-orang di Papua, (Pekei, 2008:113); cermin noken papua (Pekei 2011:17); ekologi Papua (Kartika et al, 2012); antara berbagai kelompok dan kelembagaannya dengan simbol dan nilai dan norma yang mapan, serta terkait dengan lingkungan manusia antara lingkungan sosial, lingkungan alam, dan lingkungan binaan atau buatan yang jarang terjadi dipahami dengan baik dalam proses pembangunan berkelanjutan.
+
+Ekologi Papua adalah kekayaan alam yang terkandung di dalam hutan, pesisir dan laut, serta bahan galian yang terkandung di tanah Papua, yang merupakan sumber daya yang sangat penting bagi pembangunan sosial dan ekonomi masyarakatnya. Demikian pula, keanekaragaman ekosistem yang luar biasa menyimpan hingga setengah dari keanekaragaman hayati Indonesia; terutama flora dan fauna endemik yang hanya ada di pulau ini. Papua merupakan rumah bagi 15.000-20.000 spesies tanaman (55% endemik), 602 spesies burung (52% endemik), 125 spesies mamalia (58% endemik), dan 223 spesies reptil (35% endemik). Hewan dan tumbuhan endemik tersebut antara lain burung cendrawasih, kanguru pohon, ikan pelangi, aneka kupu-kupu serta ribuan tumbuhan dan hewan lainnya (2012:). 
+
+Material, energi dan informasi bergerak dari sistem sosial ke ekosistem sebagai akibat dari kegiatan manusia yang berdampak pada ekosistem :
+
+-	Manusia mempengaruhi ekosistem ketika mereka menggunakan sumber daya seperti air, ikan, kayu dan lahan penggembalaan ternak tidak seimbang dayadukung dan tampungnya.
+-	Setelah menggunakan bahan dari ekosistem, orang mengembalikan bahan ke ekosistem sebagai limbah, tanpa tangani dengan mengedepankan ramah lingkungan hijau.
+-	Manusia dengan sengaja memodifikasi atau mengatur ulang ekosistem yang ada, atau buat yang baru, untuk melayani kebutuhan mereka dengan lebih baik. Ketika sistem sosial dan ekosistem tidak dalam agen lingkungan sosial hijau yang berkelanjutan, dimana tingkat populasi, demografi dan lingkungan hidup sosial alam sekitarnya pu tidak diperhatikan dan menjadi beban kedepan. 
+
+Beberapa hal diatas mengandalkan mesin menjadi tenaga manusia, orang menggunakan energi untuk memodifikasi atau menciptakan ekosistem dengan memindahkan material di dalamnya atau di antaranya mereka hingga menjadi sesuatu yang lain di lingkungan alam sekitarnya. Mereka mentransfer informasi dari sistem sosial ke ekosistem setiap kali mereka memodifikasi, mengatur ulang, atau membuat ekosistem. Seperti itu tanaman yang ditanamnya dan tumbuh secara liar dan masih belum budi-daya bahan oleh masyarakat dan pemerintah selama masih belum dibuat menjadi program terencana untuk tanam tanaman pohon bahan baku noken dengan melalui budi-daya bahan pohon noken secara berkelanjutan dalam meningkatkan pendapatan masyarakat setempat dan pemerintah kedepan dengan catatan bukan tanpa meniadakan tetapi menjadi perkebunan bahan noken seperti karet, kelapa, sawit dan bahan perkebunan lain atas, perubahan komunitas biologis lahan dengan penyiangan, dan modifikasi kimia tanah dengan aplikasi pemupukan tidak hanya transfer material tetapi juga transfer informasi sebagai petani merestrukturisasi organisasi ekosistem pertaniannya.
+
+Lingkungan sosial menjadi faktor penentu terhadap perubahan-perubahan perilaku yang terjadi pada setiap individu atau kelompok. Lingkungan keluarga, teman sebaya, serta lingkungan tempat tinggal akan membentuk perilaku dalam diri setiap individu. Lingkungan sosial yang baik akan membentuk pribadi yang baik, karena perilaku dan kepribadian seseorang cerminan dari lingkungan sosial yang ia tempati.[1] Keluarga menjadi lingkungan sosial yang pertama kali dikenal seorang individu sebelum terjun pada lingkungan sosial lainnya yang lebih besar.
+
+Kepribadian yang terbentuk pada anak dipengaruhi oleh kondisi lingkungan sosialnya serta didasari oleh berbagai faktor berlangsungnya interaksi sosial. Ketika seorang anak mulai berinteraksi dengan lingkungan sekitarnya, maka secara tidak langsung kepribadian akan timbul berdasarkan hasil interaksi tersebut. Hal ini menunjukkan betapa pentingnya peran lingkungan sosial dalam membentuk kepribadian seseorang.
+
+
+<div align="right">Salam</div>
+
+<div align="right">Ekologi Hutan Noken</div>
+
+<div align="right"><b>Titus Pekei</b></div>

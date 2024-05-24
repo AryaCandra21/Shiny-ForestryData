@@ -1,0 +1,48 @@
+---
+title: "definisi_definisi"
+author: "Arya Candra Kusuma"
+date: "`r Sys.Date()`"
+output: html_document
+---
+
+# Definisi Teori
+
+- Iklim adalah kondisi cuaca jangka panjang rata-rata untuk lokasi tertentu di bumi.
+
+- Perubahan iklim adalah berubahnya iklim yang diakibatkan langsung atau tidak langsung oleh aktivitas manusia yang menyebabkan perubahan komposisi atmosfir secara global dan selain itu juga berupa perubahan variabilitas iklim alamiah yang teramati pada kurun waktu yang dapat dibandingkan.
+
+- Iklim ekstrim adalah kondisi iklim pada suatu wilayah dan periode tertentu diluar kondisi normalnya dan sangat jarang terjadi. (Permen LHK No. 33 Tahun 2016).
+
+- Prediksi Iklim adalah upaya untuk menghasilkan suatu estimasi dari evolusi aktual kondisi iklim di masa depan, sebagai contoh, musiman,inter-tahunan, atau skala lebih panjang.
+
+- Variablilitas Iklim adalah merujuk pada variasi pada keadaan rata-rata dan statistik (standar deviasi, kejadian ektrim) dari iklim pada semua skala spasial dan temporal dimana peristiwa tersebut terjadi. Variabilitas bisa disebabkan oleh proses internal dengan sistem iklim (variabilitas internal), atau variasi natural atau anthropogenic external forcing (variabilitas ekternal).
+
+- Model Iklim adalah representasi matematis dari model iklim, merupakan model yang menggunakan persamaan matematika untuk menggambarkan perilaku faktor dari sistem bumi (meliputi dinamika atmosfer, lautan, permukaan tanah, makhluk hidup, dan es, serta energi dari matahari) yang mempengaruhi iklim di bumi.
+
+- Representatif Consentration Pathway (RCP) adalah empat skenario lintasan (trajectory) dari konsentrasi gas rumah kaca (bukan emisi) yang diadopsi oleh IPCC untuk Laporan Penilaian kelima (AR5) pada tahun 2014. RCP menggantikan Special Report on Emissions Scenarios (SRES) yang dikeluarkan pada tahun 2000.
+
+- Skenario iklim adalah representasi kondisi iklim di masa depan yang disusun berdasarkan luaran model-model iklim yang dibangun untuk mempelajari konsekuensi pengaruh antropogenik perubahan iklim dan seringkali digunakan sebagai masukan untuk model-model dampak iklim. (Permen LHK No. 33 Tahun 2016)
+
+- Proyeksi Iklim adalah kondisi iklim di masa depan dan bagaimana jalur (pathway) menuju kondisi tersebut. Interpretasi yang lebih spesifik telah melekat pada istilah "proyeksi iklim" oleh IPCC yang mengacu pada hasil perkiraan model dari iklim di masa depan. Proyeksi iklim merupakan pernyataan tentang kemungkinan bahwa sesuatu akan terjadi pada periode beberapa dekade sampai abad di masa depan jika kondisi tertentu yang berpengaruh terjadi.
+
+- GCM adalah Global Climate Model merupakan bentuk kompleks yang merepresentasikan komponen-komponen utama pembentuk iklim (atmosfer; tutupan permukaan; laut; dan lapisan es di laut (sea ice), dan interaksi- interaksi antar komponen tersebut.
+
+- WordClim adalah sebuah layer iklim global (set data) dengan resolusi spasial satu kilometer.
+
+- CHIRPS adalah sebuah layer iklim global (set data) dengan resolusi spasial hingga 0.050 derajat atau 5 kilometer.
+
+- Risiko adalah kemungkinan kerusakan maupun kehilangan pada jiwa (immaterial), harta benda (materil) dan/atau lingkungan yang dapat terjadi apabila ancaman dari bahaya berlangsung terjadi nyata, termasuk tingkat keparahan yang perlu diantisipasi (IPCC 2007).
+
+- Risiko iklim adalah adanya kemungkinan kerusakan maupun kehilangan materil maupun immaterial yang muncul akibat perubahan yang terjadi terhadap iklim karena komposisi atmosfir bumi yang berubah dari waktu ke waktu, baik karena faktor alam maupun faktor aktifitas manusia yang diamati dan terukur serta dapat dibandingkan selama kurun waktu tertentu.
+
+- Risiko bencana adalah potensi kerugian yang ditimbulkan akibat bencana pada suatu wilayah dan kurun waktu tertentu yang dapat berupa kematian, luka, sakit, jiwa terancam, hilangnya rasa aman, mengungsi, kerusakan atau kehilangan harta, dan gangguan kegiatan masyarakat (UU No. 24/2007).
+
+- Analisis dampak perubahan iklim adalah kajian dengan fokus lebih spesifik. Misalkan pada sektor air, fokus analisis dampak lebih spesifik pada distribusi air, ketersediaan air atau spesifik lainnya.
+
+- Kajian kerentanan dan risiko iklim adalah kajian yang dilakukan pada wilayah dan/atau sektor spesifik untuk mengevaluasi tingkat ketahanan wilayah dan/atau sektor spesifik terhadap potensi dampak iklim terhadap wilayah dan/atau sektor tersebut.
+
+- SIDIK (Sistem Inventori Data dan Informasi Kerentanan) adalah sebuah sistem inventori monitoring daerah dalam mendukung upaya pengarusutamaan isu adaptasi perubahan iklim ke dalam proses pembangunan.
+
+- Komponen adalah bagian terbesar dari pembagian kajian risiko. Komponen kajian risiko terdiri dari komponen bahaya, keterpaparan dan kerentanan yang terbagi menjadi komponen sensitivitas dan kapasitas adaptasi.
+
+- Indikator adalah bagian penyusun komponen. Indikator dipilih berdasarkan fokus kajian.

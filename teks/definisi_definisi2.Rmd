@@ -1,0 +1,40 @@
+---
+title: "definisi_definisi2"
+author: "Arya Candra Kusuma"
+date: '2022-11-02'
+output: html_document
+---
+
+# Definisi Lanjutan
+
+- Data/Variabel adalah bagian terkecil dari pembangun risiko dan merupakan bagian penyusun indicator.
+
+- Bahaya (Hazard) adalah suatu kejadian atau peristiwa yang berpotensi mengakibatkan kerusakan, kehilangan jiwa manusia, atau kerusakan lingkungan.
+
+- Kapasitas Adaptasi adalah kemampuan dari suatu sistem untuk melakukan penyesuaian (adjust) terhadap perubahan iklim sehingga potensi dampak negatif dapat dikurangi dan dampak positif dapat dimaksimalkan.
+
+- Kerawanan adalah karakter fisik dari kondisi suatu wilayah yang rentan terhadap bencana tertentu.
+
+- Kerentanan adalah derajat atau tingkat kemudahan suatu sistem terkena atau ketidakmampuannya untuk menghadapi dampak buruk dari perubahan iklim, termasuk keragaman iklim dan iklim esktrim.
+
+- Keterpaparan adalah keberadaan manusia, mata pencaharian, spesies/ekosistem, fungsi lingkungan hidup, jasa, dan sumber daya, infrastruktur, atau aset ekonomi, sosial, dan budaya di wilayah atau lokasi yang dapat mengalami dampak negatif sebagai dampak perubahan iklim.
+
+- Sensitivitas adalah tingkatan atau derajat dimana suatu sistem dipengaruhi atau responsif terhadap rangsangan perubahan iklim.
+
+- Normalisasi adalah teknik penyetaraan nilai variabel agar dapat dikalkulasikan dengan variabel lain yang telah dinormalisasi juga dengan rentang nilai antara nol sampai satu (0-1).
+
+- Peta adalah suatu gambaran dari unsur-unsur alam dan atau buatan manusia, yang berada di atas maupun di bawah permukaan bumi yang digambarkan pada suatu bidang datar dengan Skala tertentu.
+
+- Adaptasi adalah suatu proses untuk memperkuat dan membangun strategi antisipasi dampak perubahan iklim serta melaksanakannya sehingga mampu mengurangi dampak negatif dan mengambil manfaat positifnya (Permen LHK No. 33 Tahun 2016).
+
+- Adaptasi Perubahan Iklim (API) adalah suatu program disebut sebagai adaptasi perubahan iklim apabila program atau kegiatan tersebut telah merespon perubahan iklim (misalnya perubahan curah hujan dan suhu udara) atau pengurangan risiko bencana terkait iklim (misalnya kekeringan) atau ganguan terhadap jasa dan layanan ekosistem yang dihadapi oleh suatu wilayah. Adaptasi juga bisa diartikan sebagai sistem penyesuaian alami atau tanggapan manusia terhadap dari rangsangan iklim beserta dampak yang ditimbulkan, yang dapat membahayakan atau memanfaatkan peluang yang menguntungkan. Adaptasi memiliki berbagai jenis yang dibedakan menjadi antisipasi dan adaptasi reaktif, adaptasi personal dan umum, serta adaptasi yang bersifat otonom maupun terencana (M. L. Parry, et al, 2007).
+
+- Pengurangan Risiko Bencana (PRB) adalah upaya dalam meminimalisasi potensi bencana yang kemungkinan dapat terjadi atau melanda suatu wilayah.
+
+- Dampak perubahan iklim adalah kerugian atau manfaat akibat adanya perubahan iklim dalam bentuk yang dapat diukur atau dihitung secara langsung, baik secara fisik, sosial, maupun ekonomi. (Permen LHK No. 33 Tahun 2016).
+
+- Coping capacity adalah sistem yang memiliki kemampua untuk menghadapi dampak cuaca ekstrem maupun dampak dari variabilitas iklim yang terjadi saat ini (Luers dan Moser 2006).
+
+- Mal Adaptasi adalah Perubahan alami atau manusia yang secara tidak sengaja dapat meningkatkan kerentanan terhadap rangsangan iklim. Sebuah adaptasi yang tidak berhasil dalam mengurangi kerentanan melainkan justru terjadi peningkatan kerentanan terhadap adanya perubahan iklim (J.J, Canziani, Leaty, Dokken, & White, 2001).
+
+- Resiliensi adalah kapasitas suatu sistem untuk menyerap adanya gangguan dan mengatur ketika adanya perubahan dari dampak yang ditimbulkan sehingga tetap mempertahankan fungsi yang sama, struktur, identitas dan umpan balik (Walker, Holling, Carpenter, & Kinzig, 2004).

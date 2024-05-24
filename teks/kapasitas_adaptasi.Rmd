@@ -1,0 +1,27 @@
+---
+title: "kapasitas_adaptasi"
+author: "Arya Candra Kusuma"
+date: '2022-11-02'
+output: html_document
+---
+
+# Kapasitas Adaptasi
+
+Kapasitas Adaptasi adalah kemampuan dari suatu sistem untuk melakukan penyesuaian (adjust) terhadap perubahan iklim sehingga potensi dampak negatif dapat dikurangi dan dampak positif dapat dimaksimalkan.
+
+
+## Sub Indikator
+
+- sub11 : Sarana kesehatan umum
+- sub12 : Sarana kesehatan khusus
+- sub21 : Jarak sarana kesehatan
+- sub22 : Kemudahan dalam mencapai
+- sub31 : Proporsi jumlah tenaga kesehatan terhadap jumlah penduduk
+- sub41 : Proporsi penerima jaminan kesehatan
+
+## Indikator
+
+- ind1 : Ketersedian Sarana Kesehatan
+- ind2 : Akses Fasilitas Kesehatan
+- ind3 : Tenaga kesehatan
+- ind4 : Akses Pembiayaan kesehatan

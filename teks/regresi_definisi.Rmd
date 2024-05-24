@@ -1,0 +1,35 @@
+---
+title: "regresi_definisi"
+author: "Arya Candra Kusuma"
+date: '2022-11-02'
+output: html_document
+---
+
+# Regresi Linear
+
+Analisis regresi merupakan analisis yang digunakan untuk meninjau hubungan antara variabel bebas terhadap variabel terikat (Gujarati, 2003). Model persamaan dengan menggunakan metode regresi linear dapat dituliska sebagai berikut.
+
+$$
+Y_i = \beta_0 + \beta_1X_{i1} + \beta_2X_{i2} + \cdots + \beta_kX_{ik} + \varepsilon_i
+$$
+
+Dengan :
+
+- $Y_i$ merupakan nilai variabel response untuk observasi ke-$i$
+- $\beta_0$ merupakan intercept
+- $\beta_{j}$ merupakan koefisien untuk variabel bebas ke-$j$
+- $X_{ij}$ merupakan nilai variabel bebas ke-$j$ untuk observasi ke-$i$
+- $k$ menunjukkan banyaknya variabel bebas
+- $\varepsilon_i$ merupakan komponen error yang bersifat acak untuk observasi ke-$i$.
+
+## Asumsi
+
+Estimasi model regresi linear dengan menggunakan metode *ordinary least square* memiliki beberapa asumsi sebagai berikut.
+
+1. Linearitas antara variabel response terhadap parameter
+
+2. Nilai error berdistribusi normal
+
+3. Error memiliki varians yang konstan
+
+4. Tidak terjadi multikolinearitas

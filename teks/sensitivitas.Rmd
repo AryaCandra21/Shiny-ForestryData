@@ -1,0 +1,29 @@
+---
+title: "sensitivitas"
+author: "Arya Candra Kusuma"
+date: '2022-11-02'
+output: html_document
+---
+
+# Sensitivitas
+
+Sensitivitas adalah tingkatan atau derajat dimana suatu sistem dipengaruhi atau responsif terhadap rangsangan perubahan iklim.
+
+
+## Sub Indikator
+
+- sub11 : Proporsi penduduk rentan (Usia lanjut dan anak balita)
+- sub21 : Sumber air untuk minum/memasak sebagian besar keluarga
+- sub22 : Proporsi sumber air minum keluarga non ledeng terhadap
+- sub23 : Sumber air untuk mandi/cuci sebagian besar keluarga
+- sub31 : Proporsi Penderita Penyakit DBD terhadap Jumlah Penduduk
+- sub32 : Status Gizi Masyarakat
+- sub41 : Proporsi keluarga di pemukiman kumuh terhadap jumlah 
+- sub42 : Proporsi keluarga di bantaran sungai terhadap jumlah keluarga
+
+## Indikator
+
+- ind1 : Tingkat Populasi Rentan
+- ind2 : Sumber supplai air
+- ind3 : Tingkat Kesehatan Keluarga
+- ind4 : Kualitas Tinggal Keluarga 
